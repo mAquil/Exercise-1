@@ -1,0 +1,14 @@
+body  {
+	
+	background: orange;
+	font-family: monospace;
+}
+div {
+	width: 500px;
+	margin: auto;
+}
+blockquote {
+	border: 2px solid blue;
+	text-align: center;
+	margin-left: 0;
+}
